@@ -1,0 +1,10 @@
+Package: BreakTime
+Type: Package
+Title: A "Game" Package For Entertainment Purposes
+Version: 0.1.0
+Author: Wen Yan Kang
+Maintainer: Wen Yan Kang <wkang@mail.usf.edu>
+Description: Includes 3 "games": a magic 8 generator, a dice game, and a fortune teller
+License: Creative Commons (CC)
+Encoding: UTF-8
+LazyData: true
